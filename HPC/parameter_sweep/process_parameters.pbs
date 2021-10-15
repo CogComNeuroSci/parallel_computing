@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#PBS -l nodes=1:ppn=27 # the HPC prefers this to be a multiple of 9
+
+#PBS -l mem=1gb
+
+#PBS -l walltime=00:05:00
+
+cd /user/gent/435/vsc43506/parameter_sweep
+
+python process_parameters.py $learning_rate $syncing $sub_id
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -data parameters.csv -batch process_parameters.pbs

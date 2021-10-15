@@ -1,0 +1,800 @@
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 1
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 2
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 3
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 4
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 5
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 6
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 7
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 8
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 9
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 10
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 11
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 12
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 13
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 14
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 15
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 16
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 17
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 18
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 19
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 20
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 21
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 22
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 23
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 24
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 25
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 26
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 27
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 28
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 29
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 30
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 31
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 32
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 33
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 34
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 35
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 36
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 37
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 38
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 39
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 40
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 41
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 42
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 43
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 44
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 45
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 46
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 47
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 48
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 49
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 50
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 51
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 52
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 53
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 54
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 55
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 56
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 57
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 58
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 59
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 60
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 61
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 62
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 63
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 64
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 65
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 66
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 67
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 68
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 69
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 70
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 71
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 72
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 73
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 74
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 75
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 76
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 77
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 78
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 79
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 80
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 81
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 82
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 83
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 84
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 85
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 86
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 87
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 88
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 89
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 90
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 91
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 92
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 93
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 94
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 95
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 96
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 97
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 98
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 99
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END
+cd /user/gent/435/vsc43506/job_arrays
+
+python process_datasets.py 100
+
+### This script is submitted to the cluster with the following two commands:
+# module load worker/1.6.8-intel-2018a ### this time we cannot include this command in the script itself because otherwise the next command will not work
+# wsub -t 1-100 -batch process_datasets.pbs
+#####--END

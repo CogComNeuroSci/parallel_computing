@@ -1,0 +1,3 @@
+#!/bin/bash -l
+
+/usr/libexec/slurm/wrapper/qsub -N 'process_datasets.pbs' worker.pbs

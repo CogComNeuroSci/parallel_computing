@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#PBS -l nodes=1:ppn=1
+
+#PBS -l mem=500mb
+
+#PBS -l walltime=00:05:00
+
+cd /user/gent/435/vsc43506/parameter_sweep
+
+python ./generate_parameters.py
