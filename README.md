@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/github/languages/top/CogComNeuroSci/parallel_computing?style=plastic)](https://img.shields.io/github/languages/top/CogComNeuroSci/parallel_computing?style=plastic)
 [![Commits](https://img.shields.io/github/commit-activity/y/CogComNeuroSci/parallel_computing?style=plastic)](https://img.shields.io/github/commit-activity/y/CogComNeuroSci/parallel_computing?style=plastic)
-[![Contributors](https://img.shields.io/github/all-contributors/CogComNeuroSci/parallel_computing?style=plastic)](https://img.shields.io/github/all-contributors/CogComNeuroSci/parallel_computing?style=plastic)
+[![Pull requests](https://img.shields.io/github/issues-pr/CogComNeuroSci/parallel_computing?style=plastic)](https://img.shields.io/github/issues-pr/CogComNeuroSci/parallel_computing?style=plastic)
 
 ## Overview
 
